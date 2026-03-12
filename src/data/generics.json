@@ -1,0 +1,198 @@
+[
+  {
+    "brand": "Crocin",
+    "generic_name": "Paracetamol 500mg",
+    "brand_price_monthly": 45,
+    "generic_price_monthly": 12,
+    "note": "Widely available at all pharmacies"
+  },
+  {
+    "brand": "Dolo",
+    "generic_name": "Paracetamol 650mg",
+    "brand_price_monthly": 55,
+    "generic_price_monthly": 15,
+    "note": null
+  },
+  {
+    "brand": "Augmentin",
+    "generic_name": "Amoxicillin + Clavulanate 625mg",
+    "brand_price_monthly": 320,
+    "generic_price_monthly": 85,
+    "note": "Prescription required. Ask your chemist for the generic."
+  },
+  {
+    "brand": "Combiflam",
+    "generic_name": "Ibuprofen + Paracetamol",
+    "brand_price_monthly": 60,
+    "generic_price_monthly": 18,
+    "note": null
+  },
+  {
+    "brand": "Allegra",
+    "generic_name": "Fexofenadine 120mg",
+    "brand_price_monthly": 180,
+    "generic_price_monthly": 40,
+    "note": null
+  },
+  {
+    "brand": "Pantop",
+    "generic_name": "Pantoprazole 40mg",
+    "brand_price_monthly": 150,
+    "generic_price_monthly": 35,
+    "note": null
+  },
+  {
+    "brand": "Pan D",
+    "generic_name": "Pantoprazole + Domperidone",
+    "brand_price_monthly": 190,
+    "generic_price_monthly": 45,
+    "note": null
+  },
+  {
+    "brand": "Metformin",
+    "generic_name": "Metformin 500mg",
+    "brand_price_monthly": 80,
+    "generic_price_monthly": 20,
+    "note": "For diabetes. Do not stop without doctor advice."
+  },
+  {
+    "brand": "Glycomet",
+    "generic_name": "Metformin 500mg",
+    "brand_price_monthly": 95,
+    "generic_price_monthly": 20,
+    "note": "For diabetes. Do not stop without doctor advice."
+  },
+  {
+    "brand": "Amlodipine",
+    "generic_name": "Amlodipine 5mg",
+    "brand_price_monthly": 120,
+    "generic_price_monthly": 25,
+    "note": "For blood pressure. Do not stop without doctor advice."
+  },
+  {
+    "brand": "Norvasc",
+    "generic_name": "Amlodipine 5mg",
+    "brand_price_monthly": 250,
+    "generic_price_monthly": 25,
+    "note": "For blood pressure. Do not stop without doctor advice."
+  },
+  {
+    "brand": "Atorvastatin",
+    "generic_name": "Atorvastatin 10mg",
+    "brand_price_monthly": 90,
+    "generic_price_monthly": 22,
+    "note": "For cholesterol management"
+  },
+  {
+    "brand": "Lipitor",
+    "generic_name": "Atorvastatin 10mg",
+    "brand_price_monthly": 450,
+    "generic_price_monthly": 22,
+    "note": "For cholesterol management"
+  },
+  {
+    "brand": "Azithromycin",
+    "generic_name": "Azithromycin 500mg",
+    "brand_price_monthly": 95,
+    "generic_price_monthly": 30,
+    "note": "Antibiotic — complete full course"
+  },
+  {
+    "brand": "Zithromax",
+    "generic_name": "Azithromycin 500mg",
+    "brand_price_monthly": 280,
+    "generic_price_monthly": 30,
+    "note": "Antibiotic — complete full course"
+  },
+  {
+    "brand": "Omez",
+    "generic_name": "Omeprazole 20mg",
+    "brand_price_monthly": 130,
+    "generic_price_monthly": 28,
+    "note": "For acidity and stomach ulcers"
+  },
+  {
+    "brand": "Omeprazole",
+    "generic_name": "Omeprazole 20mg",
+    "brand_price_monthly": 75,
+    "generic_price_monthly": 28,
+    "note": "For acidity and stomach ulcers"
+  },
+  {
+    "brand": "Levothyroxine",
+    "generic_name": "Levothyroxine 50mcg",
+    "brand_price_monthly": 110,
+    "generic_price_monthly": 30,
+    "note": "For thyroid. Take on empty stomach in the morning."
+  },
+  {
+    "brand": "Eltroxin",
+    "generic_name": "Levothyroxine 50mcg",
+    "brand_price_monthly": 180,
+    "generic_price_monthly": 30,
+    "note": "For thyroid. Take on empty stomach in the morning."
+  },
+  {
+    "brand": "Montair",
+    "generic_name": "Montelukast 10mg",
+    "brand_price_monthly": 220,
+    "generic_price_monthly": 55,
+    "note": "For asthma and allergies"
+  },
+  {
+    "brand": "Cetirizine",
+    "generic_name": "Cetirizine 10mg",
+    "brand_price_monthly": 35,
+    "generic_price_monthly": 10,
+    "note": "For allergies"
+  },
+  {
+    "brand": "Zyrtec",
+    "generic_name": "Cetirizine 10mg",
+    "brand_price_monthly": 160,
+    "generic_price_monthly": 10,
+    "note": "For allergies"
+  },
+  {
+    "brand": "Diclofenac",
+    "generic_name": "Diclofenac 50mg",
+    "brand_price_monthly": 70,
+    "generic_price_monthly": 18,
+    "note": "Anti-inflammatory. Take after food."
+  },
+  {
+    "brand": "Voveran",
+    "generic_name": "Diclofenac 50mg",
+    "brand_price_monthly": 120,
+    "generic_price_monthly": 18,
+    "note": "Anti-inflammatory. Take after food."
+  },
+  {
+    "brand": "Metrogyl",
+    "generic_name": "Metronidazole 400mg",
+    "brand_price_monthly": 55,
+    "generic_price_monthly": 15,
+    "note": "Antibiotic/antiprotozoal. Avoid alcohol."
+  },
+  {
+    "brand": "Cipro",
+    "generic_name": "Ciprofloxacin 500mg",
+    "brand_price_monthly": 200,
+    "generic_price_monthly": 40,
+    "note": "Antibiotic — complete full course"
+  },
+  {
+    "brand": "Telma",
+    "generic_name": "Telmisartan 40mg",
+    "brand_price_monthly": 180,
+    "generic_price_monthly": 38,
+    "note": "For blood pressure"
+  },
+  {
+    "brand": "Ranitidine",
+    "generic_name": "Ranitidine 150mg",
+    "brand_price_monthly": 60,
+    "generic_price_monthly": 15,
+    "note": "For acidity"
+  }
+]
