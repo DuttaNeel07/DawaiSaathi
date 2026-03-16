@@ -4,3 +4,9 @@ node_modules/
 *.db-shm
 *.db-wal
 .DS_Store
+test_claude.js
+
+# Ignore all image files that may have been used for testing purposes
+*.jpg
+*.png
+*.pdf
