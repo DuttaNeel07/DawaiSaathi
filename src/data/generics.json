@@ -1,198 +1,471 @@
 [
   {
-    "brand": "Crocin",
-    "generic_name": "Paracetamol 500mg",
-    "brand_price_monthly": 45,
-    "generic_price_monthly": 12,
-    "note": "Widely available at all pharmacies"
+    "brand":"Crocin",
+    "generic_name":"Paracetamol 500mg",
+    "price_per_strip":32,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Dolo",
-    "generic_name": "Paracetamol 650mg",
-    "brand_price_monthly": 55,
-    "generic_price_monthly": 15,
-    "note": null
+    "brand":"Dolo",
+    "generic_name":"Paracetamol 650mg",
+    "price_per_strip":32,
+    "generic_price_per_strip":18,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Augmentin",
-    "generic_name": "Amoxicillin + Clavulanate 625mg",
-    "brand_price_monthly": 320,
-    "generic_price_monthly": 85,
-    "note": "Prescription required. Ask your chemist for the generic."
+    "brand":"Calpol",
+    "generic_name":"Paracetamol 500mg",
+    "price_per_strip":30,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Combiflam",
-    "generic_name": "Ibuprofen + Paracetamol",
-    "brand_price_monthly": 60,
-    "generic_price_monthly": 18,
-    "note": null
+    "brand":"Pacimol",
+    "generic_name":"Paracetamol 500mg",
+    "price_per_strip":28,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Allegra",
-    "generic_name": "Fexofenadine 120mg",
-    "brand_price_monthly": 180,
-    "generic_price_monthly": 40,
-    "note": null
+    "brand":"Combiflam",
+    "generic_name":"Ibuprofen 400mg + Paracetamol 325mg",
+    "price_per_strip":30,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Pantop",
-    "generic_name": "Pantoprazole 40mg",
-    "brand_price_monthly": 150,
-    "generic_price_monthly": 35,
-    "note": null
+    "brand":"Brufen",
+    "generic_name":"Ibuprofen 400mg",
+    "price_per_strip":25,
+    "generic_price_per_strip":12,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Pan D",
-    "generic_name": "Pantoprazole + Domperidone",
-    "brand_price_monthly": 190,
-    "generic_price_monthly": 45,
-    "note": null
+    "brand":"Ibugesic",
+    "generic_name":"Ibuprofen 400mg",
+    "price_per_strip":24,
+    "generic_price_per_strip":12,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Metformin",
-    "generic_name": "Metformin 500mg",
-    "brand_price_monthly": 80,
-    "generic_price_monthly": 20,
-    "note": "For diabetes. Do not stop without doctor advice."
+    "brand":"Voveran",
+    "generic_name":"Diclofenac 50mg",
+    "price_per_strip":30,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Glycomet",
-    "generic_name": "Metformin 500mg",
-    "brand_price_monthly": 95,
-    "generic_price_monthly": 20,
-    "note": "For diabetes. Do not stop without doctor advice."
+    "brand":"Zerodol",
+    "generic_name":"Aceclofenac 100mg",
+    "price_per_strip":35,
+    "generic_price_per_strip":18,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Amlodipine",
-    "generic_name": "Amlodipine 5mg",
-    "brand_price_monthly": 120,
-    "generic_price_monthly": 25,
-    "note": "For blood pressure. Do not stop without doctor advice."
+    "brand":"Hifenac",
+    "generic_name":"Aceclofenac 100mg",
+    "price_per_strip":36,
+    "generic_price_per_strip":18,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Norvasc",
-    "generic_name": "Amlodipine 5mg",
-    "brand_price_monthly": 250,
-    "generic_price_monthly": 25,
-    "note": "For blood pressure. Do not stop without doctor advice."
+    "brand":"Augmentin",
+    "generic_name":"Amoxicillin + Clavulanic Acid",
+    "price_per_strip":200,
+    "generic_price_per_strip":120,
+    "tablets_per_strip":6
   },
   {
-    "brand": "Atorvastatin",
-    "generic_name": "Atorvastatin 10mg",
-    "brand_price_monthly": 90,
-    "generic_price_monthly": 22,
-    "note": "For cholesterol management"
+    "brand":"Azithral",
+    "generic_name":"Azithromycin 500mg",
+    "price_per_strip":120,
+    "generic_price_per_strip":60,
+    "tablets_per_strip":5
   },
   {
-    "brand": "Lipitor",
-    "generic_name": "Atorvastatin 10mg",
-    "brand_price_monthly": 450,
-    "generic_price_monthly": 22,
-    "note": "For cholesterol management"
+    "brand":"Zithromax",
+    "generic_name":"Azithromycin 500mg",
+    "price_per_strip":130,
+    "generic_price_per_strip":60,
+    "tablets_per_strip":5
   },
   {
-    "brand": "Azithromycin",
-    "generic_name": "Azithromycin 500mg",
-    "brand_price_monthly": 95,
-    "generic_price_monthly": 30,
-    "note": "Antibiotic — complete full course"
+    "brand":"Ciplox",
+    "generic_name":"Ciprofloxacin 500mg",
+    "price_per_strip":60,
+    "generic_price_per_strip":25,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Zithromax",
-    "generic_name": "Azithromycin 500mg",
-    "brand_price_monthly": 280,
-    "generic_price_monthly": 30,
-    "note": "Antibiotic — complete full course"
+    "brand":"Cifran",
+    "generic_name":"Ciprofloxacin 500mg",
+    "price_per_strip":62,
+    "generic_price_per_strip":25,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Omez",
-    "generic_name": "Omeprazole 20mg",
-    "brand_price_monthly": 130,
-    "generic_price_monthly": 28,
-    "note": "For acidity and stomach ulcers"
+    "brand":"Taxim",
+    "generic_name":"Cefixime 200mg",
+    "price_per_strip":140,
+    "generic_price_per_strip":70,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Omeprazole",
-    "generic_name": "Omeprazole 20mg",
-    "brand_price_monthly": 75,
-    "generic_price_monthly": 28,
-    "note": "For acidity and stomach ulcers"
+    "brand":"Cefix",
+    "generic_name":"Cefixime 200mg",
+    "price_per_strip":135,
+    "generic_price_per_strip":70,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Levothyroxine",
-    "generic_name": "Levothyroxine 50mcg",
-    "brand_price_monthly": 110,
-    "generic_price_monthly": 30,
-    "note": "For thyroid. Take on empty stomach in the morning."
+    "brand":"Suprax",
+    "generic_name":"Cefixime 200mg",
+    "price_per_strip":145,
+    "generic_price_per_strip":70,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Eltroxin",
-    "generic_name": "Levothyroxine 50mcg",
-    "brand_price_monthly": 180,
-    "generic_price_monthly": 30,
-    "note": "For thyroid. Take on empty stomach in the morning."
+    "brand":"Mox",
+    "generic_name":"Amoxicillin 500mg",
+    "price_per_strip":50,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Montair",
-    "generic_name": "Montelukast 10mg",
-    "brand_price_monthly": 220,
-    "generic_price_monthly": 55,
-    "note": "For asthma and allergies"
+    "brand":"Novamox",
+    "generic_name":"Amoxicillin 500mg",
+    "price_per_strip":48,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Cetirizine",
-    "generic_name": "Cetirizine 10mg",
-    "brand_price_monthly": 35,
-    "generic_price_monthly": 10,
-    "note": "For allergies"
+    "brand":"Doxrid",
+    "generic_name":"Doxycycline 100mg",
+    "price_per_strip":55,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Zyrtec",
-    "generic_name": "Cetirizine 10mg",
-    "brand_price_monthly": 160,
-    "generic_price_monthly": 10,
-    "note": "For allergies"
+    "brand":"Doxt",
+    "generic_name":"Doxycycline 100mg",
+    "price_per_strip":58,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":10
   },
   {
-    "brand": "Diclofenac",
-    "generic_name": "Diclofenac 50mg",
-    "brand_price_monthly": 70,
-    "generic_price_monthly": 18,
-    "note": "Anti-inflammatory. Take after food."
+    "brand":"Metrogyl",
+    "generic_name":"Metronidazole 400mg",
+    "price_per_strip":35,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Voveran",
-    "generic_name": "Diclofenac 50mg",
-    "brand_price_monthly": 120,
-    "generic_price_monthly": 18,
-    "note": "Anti-inflammatory. Take after food."
+    "brand":"Flagyl",
+    "generic_name":"Metronidazole 400mg",
+    "price_per_strip":34,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Metrogyl",
-    "generic_name": "Metronidazole 400mg",
-    "brand_price_monthly": 55,
-    "generic_price_monthly": 15,
-    "note": "Antibiotic/antiprotozoal. Avoid alcohol."
+    "brand":"Pantop",
+    "generic_name":"Pantoprazole 40mg",
+    "price_per_strip":65,
+    "generic_price_per_strip":28,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Cipro",
-    "generic_name": "Ciprofloxacin 500mg",
-    "brand_price_monthly": 200,
-    "generic_price_monthly": 40,
-    "note": "Antibiotic — complete full course"
+    "brand":"Pan",
+    "generic_name":"Pantoprazole 40mg",
+    "price_per_strip":66,
+    "generic_price_per_strip":28,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Telma",
-    "generic_name": "Telmisartan 40mg",
-    "brand_price_monthly": 180,
-    "generic_price_monthly": 38,
-    "note": "For blood pressure"
+    "brand":"Omez",
+    "generic_name":"Omeprazole 20mg",
+    "price_per_strip":45,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":15
   },
   {
-    "brand": "Ranitidine",
-    "generic_name": "Ranitidine 150mg",
-    "brand_price_monthly": 60,
-    "generic_price_monthly": 15,
-    "note": "For acidity"
+    "brand":"Ocid",
+    "generic_name":"Omeprazole 20mg",
+    "price_per_strip":42,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Razo",
+    "generic_name":"Rabeprazole 20mg",
+    "price_per_strip":60,
+    "generic_price_per_strip":25,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Rablet",
+    "generic_name":"Rabeprazole 20mg",
+    "price_per_strip":58,
+    "generic_price_per_strip":25,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Nexpro",
+    "generic_name":"Esomeprazole 40mg",
+    "price_per_strip":70,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Nexium",
+    "generic_name":"Esomeprazole 40mg",
+    "price_per_strip":80,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Glycomet",
+    "generic_name":"Metformin 500mg",
+    "price_per_strip":20,
+    "generic_price_per_strip":12,
+    "tablets_per_strip":20
+  },
+  {
+    "brand":"Glucophage",
+    "generic_name":"Metformin 500mg",
+    "price_per_strip":22,
+    "generic_price_per_strip":12,
+    "tablets_per_strip":20
+  },
+  {
+    "brand":"Obimet",
+    "generic_name":"Metformin 500mg",
+    "price_per_strip":19,
+    "generic_price_per_strip":12,
+    "tablets_per_strip":20
+  },
+  {
+    "brand":"Januvia",
+    "generic_name":"Sitagliptin 100mg",
+    "price_per_strip":1800,
+    "generic_price_per_strip":900,
+    "tablets_per_strip":7
+  },
+  {
+    "brand":"Galvus",
+    "generic_name":"Vildagliptin 50mg",
+    "price_per_strip":250,
+    "generic_price_per_strip":120,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Trajenta",
+    "generic_name":"Linagliptin 5mg",
+    "price_per_strip":1100,
+    "generic_price_per_strip":600,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Amaryl",
+    "generic_name":"Glimepiride 1mg",
+    "price_per_strip":70,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Glimer",
+    "generic_name":"Glimepiride 1mg",
+    "price_per_strip":65,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Telma",
+    "generic_name":"Telmisartan 40mg",
+    "price_per_strip":80,
+    "generic_price_per_strip":35,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Telmikind",
+    "generic_name":"Telmisartan 40mg",
+    "price_per_strip":75,
+    "generic_price_per_strip":35,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Stamlo",
+    "generic_name":"Amlodipine 5mg",
+    "price_per_strip":50,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Amlong",
+    "generic_name":"Amlodipine 5mg",
+    "price_per_strip":48,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Losar",
+    "generic_name":"Losartan 50mg",
+    "price_per_strip":65,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Repace",
+    "generic_name":"Losartan 50mg",
+    "price_per_strip":62,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Atorva",
+    "generic_name":"Atorvastatin 10mg",
+    "price_per_strip":50,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Lipitor",
+    "generic_name":"Atorvastatin 10mg",
+    "price_per_strip":80,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Rosuvas",
+    "generic_name":"Rosuvastatin 10mg",
+    "price_per_strip":65,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Crestor",
+    "generic_name":"Rosuvastatin 10mg",
+    "price_per_strip":120,
+    "generic_price_per_strip":40,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Ecosprin",
+    "generic_name":"Aspirin 75mg",
+    "price_per_strip":10,
+    "generic_price_per_strip":5,
+    "tablets_per_strip":14
+  },
+  {
+    "brand":"Thyronorm",
+    "generic_name":"Levothyroxine 50mcg",
+    "price_per_strip":25,
+    "generic_price_per_strip":10,
+    "tablets_per_strip":30
+  },
+  {
+    "brand":"Limcee",
+    "generic_name":"Vitamin C 500mg",
+    "price_per_strip":20,
+    "generic_price_per_strip":10,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Shelcal",
+    "generic_name":"Calcium + Vitamin D3",
+    "price_per_strip":60,
+    "generic_price_per_strip":25,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Zincovit",
+    "generic_name":"Multivitamin + Zinc",
+    "price_per_strip":50,
+    "generic_price_per_strip":25,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Supradyn",
+    "generic_name":"Multivitamin",
+    "price_per_strip":90,
+    "generic_price_per_strip":30,
+    "tablets_per_strip":15
+  },
+  {
+    "brand":"Neurobion",
+    "generic_name":"Vitamin B Complex",
+    "price_per_strip":40,
+    "generic_price_per_strip":20,
+    "tablets_per_strip":30
+  },
+  {
+    "brand":"Allegra",
+    "generic_name":"Fexofenadine 120mg",
+    "price_per_strip":80,
+    "generic_price_per_strip":40,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Alerid",
+    "generic_name":"Cetirizine 10mg",
+    "price_per_strip":18,
+    "generic_price_per_strip":8,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Levocet",
+    "generic_name":"Levocetirizine 5mg",
+    "price_per_strip":35,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Asthalin",
+    "generic_name":"Salbutamol 2mg",
+    "price_per_strip":20,
+    "generic_price_per_strip":10,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Montair",
+    "generic_name":"Montelukast 10mg",
+    "price_per_strip":80,
+    "generic_price_per_strip":35,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Gabapin",
+    "generic_name":"Gabapentin 300mg",
+    "price_per_strip":120,
+    "generic_price_per_strip":60,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Lyrica",
+    "generic_name":"Pregabalin 75mg",
+    "price_per_strip":350,
+    "generic_price_per_strip":150,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Tryptomer",
+    "generic_name":"Amitriptyline 10mg",
+    "price_per_strip":30,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Alprax",
+    "generic_name":"Alprazolam 0.25mg",
+    "price_per_strip":25,
+    "generic_price_per_strip":12,
+    "tablets_per_strip":10
+  },
+  {
+    "brand":"Lonazep",
+    "generic_name":"Clonazepam 0.5mg",
+    "price_per_strip":30,
+    "generic_price_per_strip":15,
+    "tablets_per_strip":10
   }
 ]
